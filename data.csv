@@ -1,0 +1,8 @@
+Index;nameBrand;OS;chipset;RAM (*GB);memory (*GB);stock;harga
+0;Samsung Galaxy S23;ANDROID;Qualcomm Snapdragon 8;16;256;10;22000000
+1;Iphone 14 Promax;IOS;A16 Bionic Chip;8;512;15;25000000
+2;Redmi Note 12;ANDROID;Qualcomm Snapdragon 4;8;256;8;13000000
+3;Oppo Reno 8T;ANDROID;Qualcomm Snapdragon 695;16;128;12;10000000
+4;Vivo V27;ANDROID;Mediatek Dimensity 7200;8;256;10;9000000
+5;Samsung A53;ANDROID;Exynos 1280;4;128;25;5000000
+5;Iphone 13 Promax;IOS;A15 Bionic Chip;8;256;10;18000000
